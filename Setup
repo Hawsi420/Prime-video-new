@@ -2,11 +2,6 @@
   "servers": [
     {
       "name": "🌐 Server 1",
-      "url": "https://github.com/Hawsi420/Prime-video-/raw/refs/heads/main/com.amazon.avod.thirdpartyclient.zip2FkP2lkPWdBQUFBQUJveEhHc3VuLUpzaE9SVWQ2Z203NXBVclpibDJPdnZFNTc3aU9oS1BPR3FxZEhIVXBmOXdBdDhqSjN5cXc5X3J2Z1d3cWE3X1hLc25CM2Q4OWY0WUhYN3BsTlV4RnlIcG4xU3kybF84a3dwdnJtNkN3PQ==",
-      "status": "[ Working ✅ ]"
-},
-{
-      "name": "🌐 Server 2",
       "url": "https://github.com/Hawsi420/Prime-video-/raw/refs/heads/main/com.amazon.avod.thirdpartyclient.zip",
       "status": "[ Working ✅ ]"
 }
